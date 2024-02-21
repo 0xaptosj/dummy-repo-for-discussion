@@ -1,5 +1,5 @@
-title: "[Yolo]"
-labels: ["Hehe", "Hoho"]
+title: "Topic of discussion"
+labels: ["general"]
 body:
   - type: markdown
     attributes:
