@@ -1,5 +1,5 @@
 title: "Topic of discussion"
-labels: ["general"]
+labels: []
 body:
   - type: markdown
     attributes:
